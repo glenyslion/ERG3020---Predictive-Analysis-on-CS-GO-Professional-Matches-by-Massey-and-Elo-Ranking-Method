@@ -3,4 +3,6 @@ ERG3020 - Web Analytics and Intelligence Project
 
 The data that we used was the result.csv. We took the data from Kaggle website.
 
-[embed]https://drive.google.com/file/d/1YEbgyHj1pEj3Rj5pQnYjb-gqkWBNU7oI/view?usp=sharing[/embed]
+We used two methods to implement the rating algorithm, which are Massey Rating and Elo Ranking method. The project was implemented by Glenys Charity Lion and Yelike Winne Lukito.
+
+*DO NOT COPY OUR CODE*
